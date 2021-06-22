@@ -1,7 +1,11 @@
 # Projeto_LabViewVE
 Participantes: Domingos, Felipe Fernandes, Guarnieri
+
+
 Breve Manual:
+
 -Botões:
+
 	ON/OFF: Liga e Desliga o simulador.
 
 	Plot: Mostra o gráfico de saída após o carregamento.
