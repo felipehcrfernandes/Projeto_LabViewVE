@@ -8,6 +8,7 @@ Breve Manual:
 
 	*obs: Somente aperte o "Plot" quando a luz de aviso estiver verde.
 -Dados de Entrada:
+
 	Opções de Onda (Ring): Define a forma da onda de entrada do circuito, podendo ser: Senoidal, Quadrada, Inserir Arquivo, Inserir Função. 
 
 	Vin(t): Caso o usuário selecione a opção "Inserir Função", ele deve escrever a função desejada no campo "Vin(t)" para definir a forma de onda.
@@ -41,6 +42,7 @@ Breve Manual:
 	
 	
 -Ferramentas de Aviso:
+
 	Barra de carregamento: A barra termina de carregar quando o gráfico de saída está
 	pronto para ser "plotado".
 
